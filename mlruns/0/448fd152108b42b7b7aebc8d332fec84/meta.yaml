@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/ML_project/mlruns/0/448fd152108b42b7b7aebc8d332fec84/artifacts
+end_time: 1720429845420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 448fd152108b42b7b7aebc8d332fec84
+run_name: painted-moose-258
+run_uuid: 448fd152108b42b7b7aebc8d332fec84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720429843242
+status: 4
+tags: []
+user_id: codespace

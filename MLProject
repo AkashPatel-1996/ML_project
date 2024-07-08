@@ -1,0 +1,10 @@
+# An MLFlow project that has a single entry point to validate a data set
+#
+name: Dataset Validation
+
+conda_env: conda_env.yml
+
+entry_points:
+
+  data:
+    command: "python validate.py"

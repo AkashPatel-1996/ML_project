@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/ML_project/mlruns/0/0f3065c17e90480f9dba8904255aa2cd/artifacts
+end_time: 1720429924329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f3065c17e90480f9dba8904255aa2cd
+run_name: unruly-conch-395
+run_uuid: 0f3065c17e90480f9dba8904255aa2cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720429922112
+status: 4
+tags: []
+user_id: codespace
